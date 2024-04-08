@@ -1,5 +1,12 @@
 # @cloudflare/next-on-pages
 
+## 1.11.1
+
+### Patch Changes
+
+- ad4ca02: Convert dynamic requires for `cloudflare:*` built-ins to import statements.
+- ad4ca02: Mark `cloudflare:*` as external for esbuild.
+
 ## 1.11.0
 
 ### Patch Changes
